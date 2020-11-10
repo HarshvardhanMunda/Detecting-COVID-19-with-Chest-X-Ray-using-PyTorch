@@ -128,24 +128,16 @@ To  demonstrate  the  results  qualitatively,  we  generate  saliency  maps  for
 
 ## Contributions
 
-This work was collaboratively conducted by Arpan Mangal, Surya Kalia, Harish Rajgopal, Krithika Rangarajan, Vinay Namboodiri, Subhashis Banerjee and Chetan Arora.
+This work was part of guided project done by Harshvardhan Munda.
 
-### Citation
-```
-@article{covidaid,
-    title={CovidAID: COVID-19 Detection Using ChestX-Ray},
-    author={Arpan Mangal and Surya Kalia and Harish Rajgopal and Krithika Rangarajan and Vinay Namboodiri and Subhashis Banerjee and Chetan Arora},
-    year={2020},
-    journal={arXiv 2004.09803},
-    url={https://github.com/arpanmangal/CovidAID}
-}
-```
 
 ## Contact
 If you have any question, please file an issue or contact the author:
 ```
-Arpan Mangal: mangalarpan@gmail.com
-Surya Kalia: suryackalia@gmail.com
+Harshvardhan Munda 
+harshvardhanmunda99@gmail.com
+harshk@iitk.ac.in
+
 ```
 
 ## TODO
