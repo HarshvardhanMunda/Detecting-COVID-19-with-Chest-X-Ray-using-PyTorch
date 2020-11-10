@@ -133,10 +133,8 @@ This work was a part of guided project done by Harshvardhan Munda.
 ## Contact
 If you have any question, please file an issue or contact the author:
 ```
-Arpan Mangal: mangalarpan@gmail.com
-Surya Kalia: suryackalia@gmail.com
+Harshvardhan Munda 
+harshvardhanmunda99@gmail.com
+harshk@iitk.ac.in
 ```
 
-## TODO
-- Add support for `torch>=1.0`
-- Support for multi-GPU training
