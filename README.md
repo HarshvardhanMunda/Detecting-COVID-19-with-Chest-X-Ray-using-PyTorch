@@ -128,7 +128,7 @@ To  demonstrate  the  results  qualitatively,  we  generate  saliency  maps  for
 
 ## Contributions
 
-This work was part of guided project done by Harshvardhan Munda.
+This work was a part of guided project done by Harshvardhan Munda.
 
 
 ## Contact
