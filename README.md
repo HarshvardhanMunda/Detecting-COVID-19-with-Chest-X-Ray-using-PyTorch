@@ -110,6 +110,7 @@ To  demonstrate  the  results  qualitatively,  we  generate  saliency  maps  for
 
 <tr><td> 
 
+![Visualization 1](./assets/visualizations/vis_1.png "Visualization 1") 
 
 </td><td> 
 
@@ -127,14 +128,26 @@ To  demonstrate  the  results  qualitatively,  we  generate  saliency  maps  for
 
 ## Contributions
 
-This work was a part of guided project done by Harshvardhan Munda.
+This work was collaboratively conducted by Arpan Mangal, Surya Kalia, Harish Rajgopal, Krithika Rangarajan, Vinay Namboodiri, Subhashis Banerjee and Chetan Arora.
 
+### Citation
+```
+@article{covidaid,
+    title={CovidAID: COVID-19 Detection Using ChestX-Ray},
+    author={Arpan Mangal and Surya Kalia and Harish Rajgopal and Krithika Rangarajan and Vinay Namboodiri and Subhashis Banerjee and Chetan Arora},
+    year={2020},
+    journal={arXiv 2004.09803},
+    url={https://github.com/arpanmangal/CovidAID}
+}
+```
 
 ## Contact
 If you have any question, please file an issue or contact the author:
 ```
-Harshvardhan Munda 
-harshvardhanmunda99@gmail.com
-harshk@iitk.ac.in
+Arpan Mangal: mangalarpan@gmail.com
+Surya Kalia: suryackalia@gmail.com
 ```
 
+## TODO
+- Add support for `torch>=1.0`
+- Support for multi-GPU training
